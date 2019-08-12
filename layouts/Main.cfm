@@ -66,14 +66,6 @@
 			<p class="float-right">
 				<a href="##"><i class="fas fa-arrow-up"></i> Back to top</a>
 			</p>
-			<p>
-				<a href="https://www.coldbox.org">ColdBox Platform</a> is a copyright-trademark software by
-				<a href="https://www.ortussolutions.com">Ortus Solutions, Corp</a>
-			</p>
-			<p>
-				Design thanks to
-				<a href="https://getbootstrap.com/">Twitter Boostrap</a>
-			</p>
 		</div>
 	</footer>
 

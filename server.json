@@ -1,4 +1,8 @@
 {
+    "app":{
+        "cfengine":"lucee@5.2.6+59"
+    },
+    "name":"elixirTest",
     "web":{
         "rewrites":{
             "enable":"true"
