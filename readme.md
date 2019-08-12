@@ -10,7 +10,9 @@ box install
 
 ```
 npm install
+npm run dev
 ```
+You can also try `npm run prod` but you should get the same results either way.
 
 This will setup all the needed dependencies for the repro case.  You can then type:
 
