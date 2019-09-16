@@ -1,17 +1,6 @@
 const elixir    = require( "coldbox-elixir" );
 const webpack   = require( "webpack" );
 
-elixir.config.mergeConfig({
-    plugins: [
-        // globally scoped items which need to be available in all templates
-        new webpack.ProvidePlugin({
-            $              : "jquery",
-            jQuery         : "jquery",
-            "window.jQuery": "jquery",
-            "window.$"     : "jquery"
-        })
-    ]
-});
 /*
  |--------------------------------------------------------------------------
  | Elixir Asset Management
