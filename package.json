@@ -1,7 +1,7 @@
 {
     "private": true,
     "devDependencies": {
-        "coldbox-elixir": "^3.1.1"
+        "coldbox-elixir": "^4.0.3"
     },
     "dependencies": {
         "jquery": "^3.4.1",
